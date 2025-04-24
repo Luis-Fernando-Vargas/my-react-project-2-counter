@@ -32,8 +32,8 @@ This project is part of a learning series focused on building small, reusable co
 To run this project locally:
 
 1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Luis-Fernando-Vargas/my-react-project-2-counter.git
+```bash
+git clone https://github.com/Luis-Fernando-Vargas/my-react-project-2-counter.git
 ```
 
 2. **Navigate to the project folder** 
